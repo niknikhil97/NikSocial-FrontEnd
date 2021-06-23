@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NikSocial-FrontEnd/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/NikSocial-FrontEnd/static/js/main.62eae719.chunk.js",
+    "main.js.map": "/NikSocial-FrontEnd/static/js/main.62eae719.chunk.js.map",
+    "runtime-main.js": "/NikSocial-FrontEnd/static/js/runtime-main.74895b32.js",
+    "runtime-main.js.map": "/NikSocial-FrontEnd/static/js/runtime-main.74895b32.js.map",
+    "static/js/2.891ba9a7.chunk.js": "/NikSocial-FrontEnd/static/js/2.891ba9a7.chunk.js",
+    "static/js/2.891ba9a7.chunk.js.map": "/NikSocial-FrontEnd/static/js/2.891ba9a7.chunk.js.map",
+    "static/js/3.b6463559.chunk.js": "/NikSocial-FrontEnd/static/js/3.b6463559.chunk.js",
+    "static/js/3.b6463559.chunk.js.map": "/NikSocial-FrontEnd/static/js/3.b6463559.chunk.js.map",
+    "index.html": "/NikSocial-FrontEnd/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/NikSocial-FrontEnd/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.891ba9a7.chunk.js.LICENSE.txt": "/NikSocial-FrontEnd/static/js/2.891ba9a7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NikSocial-FrontEnd/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74895b32.js",
+    "static/js/2.891ba9a7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.62eae719.chunk.js"
+  ]
+}
