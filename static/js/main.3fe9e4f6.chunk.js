@@ -1,0 +1,2 @@
+(this.webpackJsonpniksocial=this.webpackJsonpniksocial||[]).push([[0],{10:function(n,e,t){"use strict";t.r(e);var c=t(1),i=t.n(c),s=t(3),r=t.n(s),o=(t(8),t(0));var a=function(){return Object(o.jsx)("div",{className:"App",children:"APP COMPONENT"})};r.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))},8:function(n,e,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3fe9e4f6.chunk.js.map
