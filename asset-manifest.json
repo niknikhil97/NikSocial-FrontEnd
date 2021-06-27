@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NikSocial-FrontEnd/static/css/main.ff576dba.chunk.css",
-    "main.js": "/NikSocial-FrontEnd/static/js/main.3fe9e4f6.chunk.js",
-    "main.js.map": "/NikSocial-FrontEnd/static/js/main.3fe9e4f6.chunk.js.map",
+    "main.css": "/NikSocial-FrontEnd/static/css/main.cd91838b.chunk.css",
+    "main.js": "/NikSocial-FrontEnd/static/js/main.5a53c5b6.chunk.js",
+    "main.js.map": "/NikSocial-FrontEnd/static/js/main.5a53c5b6.chunk.js.map",
     "runtime-main.js": "/NikSocial-FrontEnd/static/js/runtime-main.39480c80.js",
     "runtime-main.js.map": "/NikSocial-FrontEnd/static/js/runtime-main.39480c80.js.map",
-    "static/js/2.d1441cf9.chunk.js": "/NikSocial-FrontEnd/static/js/2.d1441cf9.chunk.js",
-    "static/js/2.d1441cf9.chunk.js.map": "/NikSocial-FrontEnd/static/js/2.d1441cf9.chunk.js.map",
+    "static/js/2.fb12113e.chunk.js": "/NikSocial-FrontEnd/static/js/2.fb12113e.chunk.js",
+    "static/js/2.fb12113e.chunk.js.map": "/NikSocial-FrontEnd/static/js/2.fb12113e.chunk.js.map",
     "index.html": "/NikSocial-FrontEnd/index.html",
-    "static/css/main.ff576dba.chunk.css.map": "/NikSocial-FrontEnd/static/css/main.ff576dba.chunk.css.map",
-    "static/js/2.d1441cf9.chunk.js.LICENSE.txt": "/NikSocial-FrontEnd/static/js/2.d1441cf9.chunk.js.LICENSE.txt"
+    "static/css/main.cd91838b.chunk.css.map": "/NikSocial-FrontEnd/static/css/main.cd91838b.chunk.css.map",
+    "static/js/2.fb12113e.chunk.js.LICENSE.txt": "/NikSocial-FrontEnd/static/js/2.fb12113e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.39480c80.js",
-    "static/js/2.d1441cf9.chunk.js",
-    "static/css/main.ff576dba.chunk.css",
-    "static/js/main.3fe9e4f6.chunk.js"
+    "static/js/2.fb12113e.chunk.js",
+    "static/css/main.cd91838b.chunk.css",
+    "static/js/main.5a53c5b6.chunk.js"
   ]
 }
