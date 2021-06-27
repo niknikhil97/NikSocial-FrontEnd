@@ -6,3 +6,37 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+/* General Style */
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.Home {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+}
+
+.Navbar {
+  padding: 0.3rem 1rem;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Navbar .Logo {
+  left: 0;
+}
+.Navbar .Menu {
+  position: absolute;
+  right: 1rem;
+  top: 4rem;
+  padding: 0.5rem;
+  background-color: rgb(50, 0, 97);
+  border-radius: 2px;
+}
